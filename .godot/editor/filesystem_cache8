@@ -1,0 +1,112 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1719428678
+icon.svg::CompressedTexture2D::2214481476971862859::1719342138::1719342181::1::::<><>::
+::res://Cenas/::1719428554
+fase_1.tscn::PackedScene::3356921805709274029::1719428548::0::1::::<><>::uid://coij6e4bl3c5q::::res://Sprites/Background parts/5 - Sky_color.png<>uid://cmdwsyv1i7rnx::::res://Sprites/Background parts/3 - Cloud_cover_1.png<>uid://cu1de1rdgmif1::::res://Sprites/Background parts/1 - Grassland/Terrain (16 x 16).png<>res://Cenas/player.gd<>uid://c8u0bvvchbv3o::::res://Sprites/Background parts/1 - Grassland/personagens4/2 - Holly/Idle (32 x 32).png<>uid://b0ha0jhxj84h8::::res://Sprites/Background parts/1 - Grassland/personagens4/2 - Holly/Jump (32 x 32).png<>uid://bo17wilqou33j::::res://Sprites/Background parts/1 - Grassland/personagens4/2 - Holly/Running (32 x 32).png
+player.gd::GDScript::-1::1719428224::0::1::::<>CharacterBody2D<>::
+::res://Scripts/::1719342225
+::res://Sprites/::1719342741
+::res://Sprites/Background parts/::1719343991
+1 - Foreground_scenery.png::CompressedTexture2D::4652792866714959460::1719342741::1719342741::1::::<><>::
+2 - Hills.png::CompressedTexture2D::4103226396538458718::1719342741::1719342741::1::::<><>::
+3 - Cloud_cover_1.png::CompressedTexture2D::5622669836630506133::1719342741::1719342741::1::::<><>::
+4 - Cloud_cover_2.png::CompressedTexture2D::5582317939754055238::1719342741::1719342741::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::5772602267851051268::1719342741::1719342741::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::7432537079735367042::1719342741::1719342741::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/::1719426601
+Extra_plants (16 x 16).png::CompressedTexture2D::7372901428694992217::1719343992::1719343998::1::::<><>::
+grass.png::CompressedTexture2D::6948153127559266280::1719343992::1719343998::1::::<><>::
+Grassland_entities (16 x 16).png::CompressedTexture2D::6780098341685627892::1719343992::1719344004::1::::<><>::
+plains.png::CompressedTexture2D::2954786731952298124::1719343992::1719344004::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::6230482747919907140::1719343992::1719344004::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/Background parts/::1719344004
+1 - Foreground_scenery.png::CompressedTexture2D::989237154641387352::1719343991::1719343992::1::::<><>::
+2 - Hills.png::CompressedTexture2D::1073837347068995800::1719343992::1719343992::1::::<><>::
+3 - Cloud_cover_1.png::CompressedTexture2D::7191191635707278959::1719343992::1719343992::1::::<><>::
+4 - Cloud_cover_2.png::CompressedTexture2D::8281640794179985034::1719343992::1719343992::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::727990876540532660::1719343992::1719343998::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::2931698321282829885::1719343992::1719343998::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/::1719426602
+LICENSE.txt::TextFile::-1::1719426602::0::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/1 - Diego/::1719426605
+Blink (32 x 48).png::CompressedTexture2D::3381185288556266414::1719426601::1719426605::1::::<><>::
+Crouching (32 x 32).png::CompressedTexture2D::6229937312811493193::1719426601::1719426605::1::::<><>::
+Hurt (32 x 48).png::CompressedTexture2D::7552460113509232807::1719426601::1719426605::1::::<><>::
+Idle (32 x 48).png::CompressedTexture2D::968186128777922667::1719426601::1719426605::1::::<><>::
+Jump (32 x 48).png::CompressedTexture2D::4442855331053045163::1719426601::1719426605::1::::<><>::
+Reloading_while_crouching (32 x 32).png::CompressedTexture2D::2493404326131874847::1719426601::1719426605::1::::<><>::
+Reloading_while_standing (32 x 48).png::CompressedTexture2D::5299044010905843053::1719426601::1719426605::1::::<><>::
+Running (32 x 48).png::CompressedTexture2D::3209130106436830962::1719426601::1719426605::1::::<><>::
+Shooting_while_crouching (48 x 32).png::CompressedTexture2D::8456823963448076361::1719426601::1719426605::1::::<><>::
+Shooting_while_jumping (48 x 48).png::CompressedTexture2D::2153818589501863376::1719426601::1719426605::1::::<><>::
+Shooting_while_running (48 x 48).png::CompressedTexture2D::8294073363363919742::1719426601::1719426605::1::::<><>::
+Shooting_while_standing (48 x 48).png::CompressedTexture2D::8676430057899656153::1719426601::1719426605::1::::<><>::
+Standing (32 x 48).png::CompressedTexture2D::3586532719398674883::1719426601::1719426605::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/2 - Holly/::1719426605
+Aerial_swing (64 x 64).png::CompressedTexture2D::6355005951665919554::1719426601::1719426605::1::::<><>::
+Blink (32 x 32).png::CompressedTexture2D::1645500012315600966::1719426601::1719426605::1::::<><>::
+Ducking (32 x 32).png::CompressedTexture2D::1540896915801498510::1719426601::1719426605::1::::<><>::
+Falling (32 x 32).png::CompressedTexture2D::186581537720276641::1719426601::1719426605::1::::<><>::
+Ground_smash (64 x 48).png::CompressedTexture2D::2709195394260453381::1719426601::1719426605::1::::<><>::
+Hurt (32 x 32).png::CompressedTexture2D::1464664972435945320::1719426601::1719426605::1::::<><>::
+Idle (32 x 32).png::CompressedTexture2D::7131881608667068306::1719426601::1719426605::1::::<><>::
+Jump (32 x 32).png::CompressedTexture2D::4155637548352106299::1719426601::1719426605::1::::<><>::
+Running (32 x 32).png::CompressedTexture2D::3424720985391687793::1719426601::1719426605::1::::<><>::
+Standing (32 x 32).png::CompressedTexture2D::7649005549160191420::1719426601::1719426605::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/3 - Gordon/::1719426605
+Aerial_swing (80 x 64).png::CompressedTexture2D::7057884193562552242::1719426601::1719426605::1::::<><>::
+Blink (48 x 48).png::CompressedTexture2D::3360617446788770261::1719426601::1719426605::1::::<><>::
+Combo_swings (80 x 64).png::CompressedTexture2D::1845333372181158372::1719426601::1719426605::1::::<><>::
+Crouching (48 x 48).png::CompressedTexture2D::7788006784422002797::1719426601::1719426605::1::::<><>::
+Down_swing (80 x 64).png::CompressedTexture2D::3067501212821834001::1719426601::1719426605::1::::<><>::
+Falling (48 x 64).png::CompressedTexture2D::3214080225762888589::1719426602::1719426605::1::::<><>::
+Hurt (48 x 48).png::CompressedTexture2D::2832303103063074107::1719426602::1719426605::1::::<><>::
+Idle (48 x 48).png::CompressedTexture2D::6685873623163183039::1719426602::1719426605::1::::<><>::
+Jump (48 x 64).png::CompressedTexture2D::5809929871673847630::1719426602::1719426605::1::::<><>::
+Landed (48 x 64).png::CompressedTexture2D::5517357247379632690::1719426602::1719426605::1::::<><>::
+Running (48 x 48).png::CompressedTexture2D::8215739019862709801::1719426602::1719426605::1::::<><>::
+Run_stab (80 x 48).png::CompressedTexture2D::9122716275311050234::1719426602::1719426605::1::::<><>::
+Standing (48 x 48).png::CompressedTexture2D::3443723628726362029::1719426602::1719426605::1::::<><>::
+Up_swing (80 x 64).png::CompressedTexture2D::5240717710591018471::1719426602::1719426605::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/Sprite Pack 7/::1719426603
+LICENSE.txt::TextFile::-1::1719426603::0::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/Sprite Pack 7/1 - Diego/::1719426604
+Blink (32 x 48).png::CompressedTexture2D::2239403590602436105::1719426602::1719426604::1::::<><>::
+Crouching (32 x 32).png::CompressedTexture2D::3711182708996860344::1719426602::1719426604::1::::<><>::
+Hurt (32 x 48).png::CompressedTexture2D::6162876248513103561::1719426602::1719426604::1::::<><>::
+Idle (32 x 48).png::CompressedTexture2D::2925607259728449056::1719426602::1719426604::1::::<><>::
+Jump (32 x 48).png::CompressedTexture2D::7223640557306618960::1719426602::1719426604::1::::<><>::
+Reloading_while_crouching (32 x 32).png::CompressedTexture2D::571363396528585907::1719426602::1719426604::1::::<><>::
+Reloading_while_standing (32 x 48).png::CompressedTexture2D::8252475722683245008::1719426602::1719426604::1::::<><>::
+Running (32 x 48).png::CompressedTexture2D::2969314485434611997::1719426602::1719426604::1::::<><>::
+Shooting_while_crouching (48 x 32).png::CompressedTexture2D::6186178078943141101::1719426602::1719426604::1::::<><>::
+Shooting_while_jumping (48 x 48).png::CompressedTexture2D::8555649667442098392::1719426602::1719426604::1::::<><>::
+Shooting_while_running (48 x 48).png::CompressedTexture2D::2517067525950923361::1719426602::1719426604::1::::<><>::
+Shooting_while_standing (48 x 48).png::CompressedTexture2D::3373571823039654749::1719426602::1719426604::1::::<><>::
+Standing (32 x 48).png::CompressedTexture2D::2351834983104674983::1719426602::1719426604::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/Sprite Pack 7/2 - Holly/::1719426605
+Aerial_swing (64 x 64).png::CompressedTexture2D::5142730841795658917::1719426602::1719426604::1::::<><>::
+Blink (32 x 32).png::CompressedTexture2D::5666825184052570238::1719426602::1719426604::1::::<><>::
+Ducking (32 x 32).png::CompressedTexture2D::3395612918481371053::1719426602::1719426604::1::::<><>::
+Falling (32 x 32).png::CompressedTexture2D::4494617663947020738::1719426602::1719426604::1::::<><>::
+Ground_smash (64 x 48).png::CompressedTexture2D::3380088710274409157::1719426602::1719426604::1::::<><>::
+Hurt (32 x 32).png::CompressedTexture2D::8766678249099815095::1719426602::1719426605::1::::<><>::
+Idle (32 x 32).png::CompressedTexture2D::8941038615853657795::1719426602::1719426605::1::::<><>::
+Jump (32 x 32).png::CompressedTexture2D::5601765675719390590::1719426602::1719426605::1::::<><>::
+Running (32 x 32).png::CompressedTexture2D::2040499381329284139::1719426602::1719426605::1::::<><>::
+Standing (32 x 32).png::CompressedTexture2D::8524903462573739975::1719426602::1719426605::1::::<><>::
+::res://Sprites/Background parts/1 - Grassland/personagens4/Sprite Pack 7/3 - Gordon/::1719426605
+Aerial_swing (80 x 64).png::CompressedTexture2D::4758241419778285871::1719426602::1719426605::1::::<><>::
+Blink (48 x 48).png::CompressedTexture2D::7144137201093596141::1719426603::1719426605::1::::<><>::
+Combo_swings (80 x 64).png::CompressedTexture2D::2301173277027880989::1719426603::1719426605::1::::<><>::
+Crouching (48 x 48).png::CompressedTexture2D::2109087649035473076::1719426603::1719426605::1::::<><>::
+Down_swing (80 x 64).png::CompressedTexture2D::9061608014117818648::1719426603::1719426605::1::::<><>::
+Falling (48 x 64).png::CompressedTexture2D::3120224609116063202::1719426603::1719426605::1::::<><>::
+Hurt (48 x 48).png::CompressedTexture2D::8830807600177966416::1719426603::1719426605::1::::<><>::
+Idle (48 x 48).png::CompressedTexture2D::6260770721594253102::1719426603::1719426605::1::::<><>::
+Jump (48 x 64).png::CompressedTexture2D::8985478446435086476::1719426603::1719426605::1::::<><>::
+Landed (48 x 64).png::CompressedTexture2D::6688742663595288699::1719426603::1719426605::1::::<><>::
+Running (48 x 48).png::CompressedTexture2D::8200482196281212994::1719426603::1719426604::1::::<><>::
+Run_stab (80 x 48).png::CompressedTexture2D::3903820281387894880::1719426603::1719426604::1::::<><>::
+Standing (48 x 48).png::CompressedTexture2D::3074588292001816986::1719426603::1719426604::1::::<><>::
+Up_swing (80 x 64).png::CompressedTexture2D::8146721754867487837::1719426603::1719426604::1::::<><>::
